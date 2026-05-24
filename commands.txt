@@ -1,0 +1,4 @@
+cd /home/abrar/AI\ Savvyness/AI_Pair_Engineer
+python3 -m venv venv
+
+source venv/bin/activate
